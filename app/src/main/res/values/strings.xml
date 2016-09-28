@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Preferences Assignment2</string>
+    <string name="app_name">Preferences</string>
+    <string name="MenuSettings">SETTINGS</string>
+    <string name="prefUserProfile">UserProfile</string>
+    <string name="password">password</string>
+    <string name="setPassword">set your password</string>
+    <string name="security">Security Settings</string>
+    <string name="ScreenLock">Screen Lock</string>
+    <string name="setscreenlock">Lock the Screen with Password</string>
+    <string name="Reminder">Reminder For Updation</string>
+    <string name="SetFreq">set update reminder frequency</string>
 </resources>
